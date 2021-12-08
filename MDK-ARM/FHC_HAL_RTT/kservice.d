@@ -1,0 +1,12 @@
+fhc_hal_rtt\kservice.o: ..\RTT_Nano\kernal\kservice.c
+fhc_hal_rtt\kservice.o: ..\RTT_Nano\include\rtthread.h
+fhc_hal_rtt\kservice.o: ..\RTT_Nano\rtconfig.h
+fhc_hal_rtt\kservice.o: .\RTE\_FHC_HAL_RTT\RTE_Components.h
+fhc_hal_rtt\kservice.o: ..\RTT_Nano\include\rtdebug.h
+fhc_hal_rtt\kservice.o: ..\RTT_Nano\include\rtdef.h
+fhc_hal_rtt\kservice.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+fhc_hal_rtt\kservice.o: ..\RTT_Nano\include\rtservice.h
+fhc_hal_rtt\kservice.o: ..\RTT_Nano\include\rtm.h
+fhc_hal_rtt\kservice.o: ..\RTT_Nano\include\rtthread.h
+fhc_hal_rtt\kservice.o: ..\RTT_Nano\include\rthw.h
+fhc_hal_rtt\kservice.o: ..\bsp\bsp_uart.h
